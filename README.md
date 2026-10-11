@@ -185,22 +185,3 @@ AgriSat-TN/
 ├── gee_auth.py              # Earth Engine authentication helper
 └── README.md                # Project documentation
 ```
-
----
-
-## 👥 Authors & Acknowledgments
-
-Built by:
-- **Abirami K** (Computer Science and Engineering)
-- **Madhumitha P S** (Electrical and Electronics Engineering)
-- **Lathika K** (Artificial Intelligence and Data Science)
-- **Manisha G** (Artificial Intelligence and Data Science)
-
-**Karpagam College of Engineering**, Coimbatore.
-
-Special thanks to the organizers of **VIT Vellore (SustainAI 2026)** for presenting the problem statement and providing feedback throughout the Mapathon.
-
----
-
-## 📄 License
-This project is open-source under the [MIT License](LICENSE).
